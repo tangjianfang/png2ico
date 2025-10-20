@@ -88,5 +88,3 @@ Provide your preferred open-source license (e.g., MIT) if distributing publicly.
 
 中文:
 若公开发布，请自行添加适用的开源许可（如 MIT）。
-
-GitHub Copilot
