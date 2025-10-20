@@ -30,11 +30,21 @@ English:
 - Run with one argument: png2ico.exe input.png
 - Explorer may cache old icons; clear icon cache if size preview seems incorrect.
 
+- Use Cases:
+-   A free alternative to IcoFX (paid software)
+-   Perfect for converting AI-generated PNG icons (from ChatGPT, Midjourney, DALL·E, Firefly, etc.) into Windows ICO files
+-   Supports batch conversion and multiple resolutions from 16×16 to 256×256
+
 中文:
 - 将 PNG 文件放在程序同目录。
 - 无参数运行：批量转换当前目录所有 *.png → 同名 *.ico。
 - 单文件模式：png2ico.exe input.png
 - 若预览尺寸异常，可清理系统图标缓存后再查看。
+
+- 使用场景：
+-   可作为 IcoFX（收费软件） 的免费替代工具
+-   适合将 AI 生成的 PNG 图标（如通过 ChatGPT、Midjourney、DALL·E、Firefly 等生成）快速转换为标准 ICO 图标
+-   一键批量处理多张图片，支持 16×16 到 256×256 多分辨率输出
 
 ## Build / 构建
 English:
