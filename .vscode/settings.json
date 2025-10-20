@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.txt": "plaintext",
+    "*.json": "json",
+    "*.js": "javascript",
+    "vector": "cpp"
+  }
+}
